@@ -1,9 +1,14 @@
 # Vibe
 
+![Showcase](https://i.imgur.com/Y87JPrm.png)
+
 A client-side utility mod for **Minecraft Forge 1.8.9**, with combat and movement
 modules, ESP, a customizable HUD, cosmetics, an account manager and local Java scripts.
 
-[Discord](https://dsc.gg/vibe-skidder-club) · [Changelog](docs/CHANGELOG.md)
+Using forge event to inject.
+
+<a href="https://dsc.gg/vibe-skidder-club"><img src="https://invidget.switchblade.xyz/ehv2UKbSvW" alt="dscinvitewidget"/></a><br>
+[Changelog](docs/CHANGELOG.md)
 
 ## Install
 
